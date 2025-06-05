@@ -119,4 +119,4 @@ Nach der Installation konfigurieren Sie GLPI, um den spezifischen Anforderungen 
 
 Design by Asmrprog.
 Email : betinellipaul@staff.byflash.fr
-Site : https://share.byflash.fr/
+Site : [Indisponible] https://glpi.byflash.fr/
