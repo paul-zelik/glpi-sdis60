@@ -115,3 +115,8 @@ Nach der Installation konfigurieren Sie GLPI, um den spezifischen Anforderungen 
 - Greifen Sie auf die GLPI-Weboberfläche zu.
 - Erstellen und verwalten Sie Support-Tickets.
 - Verwenden Sie Berichte, um die Leistung zu analysieren und Verbesserungsbereiche zu identifizieren.
+
+
+Design by Asmrprog.
+Email : betinellipaul@staff.byflash.fr
+Site : https://share.byflash.fr/
