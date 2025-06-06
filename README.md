@@ -12,7 +12,7 @@ GLPI est une solution open source de gestion de parc informatique et de helpdesk
 ## Installation
 Pour installer GLPI, suivez les étapes ci-dessous :
 1. Téléchargez la dernière version de GLPI depuis [le site officiel](https://glpi-project.org/fr/).
-2. Configurez votre serveur web avec PHP et MySQL.
+2. Configurez le param.json.
 3. Suivez les instructions d'installation fournies dans la documentation officielle.
 
 ## Configuration
@@ -72,7 +72,7 @@ GLPI es una solución de gestión de activos de TI y mesa de ayuda de código ab
 ## Instalación
 Para instalar GLPI, siga los pasos a continuación:
 1. Descargue la última versión de GLPI desde [el sitio oficial](https://glpi-project.org/fr/).
-2. Configure su servidor web con PHP y MySQL.
+2. Configure the param.json.
 3. Siga las instrucciones de instalación proporcionadas en la documentación oficial.
 
 ## Configuración
@@ -102,7 +102,7 @@ GLPI ist eine Open-Source-Lösung für IT-Asset-Management und Helpdesk. SDIS60 
 ## Installation
 Um GLPI zu installieren, folgen Sie den nachstehenden Schritten:
 1. Laden Sie die neueste Version von GLPI von [der offiziellen Website](https://glpi-project.org/fr/) herunter.
-2. Konfigurieren Sie Ihren Webserver mit PHP und MySQL.
+2. Konfigurieren die param.json.
 3. Befolgen Sie die Installationsanweisungen in der offiziellen Dokumentation.
 
 ## Konfiguration
